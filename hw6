@@ -1,0 +1,2 @@
+(defun nqueens (n)
+		(cond ))
